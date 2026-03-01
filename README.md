@@ -1,5 +1,9 @@
 樱花动漫网址https://www.yhmc.cc/index.html
-主要爬樱花动漫的加速云！！！！！！！！！！！！！！！！！不是加速云要改get_m3u8_url_func函数的beautifulsoup列表切片[]<img width="548" height="167" alt="屏幕截图 2026-03-01 092504" src="https://github.com/user-attachments/assets/a6958967-2f0f-4e96-b6f6-82c9d0c8ed23" />从左往右依次0  1  2，记得改切片
+主要爬樱花动漫的加速云！！！！！！！！！！！！！！！！！不是加速云要改get_m3u8_url_func函数的beautifulsoup列表切片[]从左往右依次0  1  2，记得改切片
+
+<img width="548" height="167" alt="屏幕截图 2026-03-01 092504" src="https://github.com/user-attachments/assets/a6958967-2f0f-4e96-b6f6-82c9d0c8ed23" />
+
+
 ！！！！！！！！请修改文件夹路径！！！！！！！！请修改文件夹路径！！！！！！！！请修改文件夹路径！！！！！！！！请修改文件夹路径！！！！！！！！！！！！！！！！
 提前在对应位置建立对应文件夹！！！！！！！！！！！！！！！！！！！！！！！
 爬取成功后确保所有ts文件都下载完毕，再用TS合并.py
